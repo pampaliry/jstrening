@@ -1,0 +1,2 @@
+# jstrening
+my first repository
