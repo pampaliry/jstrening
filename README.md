@@ -1,2 +1,2 @@
-# jstrening
-my first repository
+# jstrening wauu
+my first repository bitch
